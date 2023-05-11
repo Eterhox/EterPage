@@ -1,2 +1,2 @@
-# Eternal-Enterprise
-the Eternal Enterprise 
+# EterPage
+EterPage, a page about stuff.
