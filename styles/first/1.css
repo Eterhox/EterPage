@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(rgb(5, 0, 64),rgb(17, 0, 208))
+}
+.ofthisjourney, h1 {
+    text-color: rgba(230, 35, 35, 0.724);
+    text-align: center;
+    font-family: 'Trebuchet MS', Arial, sans-serif
+}
